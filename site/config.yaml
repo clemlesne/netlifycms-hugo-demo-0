@@ -1,0 +1,11 @@
+baseurl: "http://netlifycms-hugo-demo.aws.clement.lesne.pro/"
+enableGitInfo: true
+
+languageCode: "en-us"
+title: "Homepage"
+enableRobotsTXT: true
+enableEmoji: true
+
+paginate: 20
+permalinks:
+  post: /:year/:month/:title/
