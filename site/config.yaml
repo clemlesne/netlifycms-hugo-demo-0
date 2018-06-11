@@ -2,7 +2,7 @@ baseurl: "http://netlifycms-hugo-demo.aws.clement.lesne.pro/"
 enableGitInfo: true
 
 languageCode: "en-us"
-title: "Homepage"
+title: "netlifycms-hugo-demo"
 enableRobotsTXT: true
 enableEmoji: true
 
