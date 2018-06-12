@@ -1,6 +1,8 @@
 backend:
-  name: github
+  name: gitlab
   repo: klemy/netlifycms-hugo-demo-0
+  auth_type: implicit
+  app_id: c0fca19ad592a47fe4353b7e91e9d4725f14799f9c5d2e660d4401fba875d738
 
 media_folder: "site/static/img"
 public_folder: "img"
